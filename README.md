@@ -7,3 +7,7 @@
 - [Ejercicio de Base de Datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Equipo_3_Ejercicio%20Base%20de%20Datos.pdf)
 
 - [Ejercicios Básicos de Python](https://github.com/OrlandoGaSa/MIneria-de-datos-FCFM/blob/main/Ej_Python_1811901.ipynb)
+
+-[Ejercicio de Limpieza de Datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo_3.ipynb)
+
+-[Primer Avance Entregable PIA](https://github.com/aadrieel/MineriaDeDatos/blob/main/Avance1_PIA_Equipo_3.ipynb)
