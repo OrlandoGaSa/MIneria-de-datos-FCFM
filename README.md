@@ -13,4 +13,4 @@
 - [Primer Avance Entregable PIA](https://github.com/aadrieel/MineriaDeDatos/blob/main/Avance1_PIA_Equipo_3.ipynb)
 
 ## FASE II
--[Presentación_Patrones-Secuenciales_Equipo_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Presentacion_PatronesSecuenciales_3.pdf)
+- [Presentación_Patrones-Secuenciales_Equipo_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Presentacion_PatronesSecuenciales_3.pdf)
