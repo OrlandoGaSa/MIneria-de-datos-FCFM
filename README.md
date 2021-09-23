@@ -14,3 +14,5 @@
 
 ## FASE II
 - [Presentación_Patrones-Secuenciales_Equipo_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Presentacion_PatronesSecuenciales_3.pdf)
+
+- [Preguntas_Presentación_Patrones_Secuenciales_Equipo_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Pregunta_Presentaci%C3%B3n_Patrones_Secuenciales_3.pdf)
