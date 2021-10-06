@@ -18,3 +18,5 @@
 - [Preguntas_Presentación_Patrones_Secuenciales_Equipo_3](https://github.com/aadrieel/MineriaDeDatos/blob/main/Pregunta_Presentaci%C3%B3n_Patrones_Secuenciales_3.pdf)
 
 - [Práctica de Visualización](https://github.com/aadrieel/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_3.ipynb)
+
+- [Avance PIA II Equipo 3](https://github.com/aadrieel/MineriaDeDatos/blob/main/AvancePIA_II_002_3.ipynb)
